@@ -2,92 +2,99 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Mega | Noticias | https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj | 
-https://www.youtube.com/live/mU_MO6nFB8Y?si=9-mBFr6ETnZstvAQ
+https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 FRANCE 24 Español | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKbN7AVO1EPk7AdVHoh6mb9sF9QZwM5DmT7DKuh8=s176-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/live/Y-IlMeCCtIg?si=2nv5HVVtkCvmVjc6
 
 FOX | Noticias  | https://yt3.googleusercontent.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/live/c9zOZ3bISR0?si=cK0wWt4f0pVSCOvU
+https://www.youtube.com/watch?v=7MGNtZ21x5o&ab/live
 
-La Cosa Como Es con Edith Febles | Noticias | https://yt3.ggpht.com/z3UpMxWk42EQHvqK5YWJyLYgp6B7IGWhsjZ1ozT1Z7kUxcqiMhUpdfnHVKoCynrXq6-Ei-pa=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=IIbSPIzuilo/Live
+Fox 4 News | Noticias  | https://yt3.googleusercontent.com/P7E1mJTE0gikY7l1Ad-lTQkVD9dGTKQfU7UGmRrBVOporW0uZ_qLkwMJTCSF2-0pD0UUJD4qXA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC2rLSYDm92QMytS9yIkT8UQ/live
 
-La Cosa Como Es con Edith Febles | Noticias | https://yt3.ggpht.com/z3UpMxWk42EQHvqK5YWJyLYgp6B7IGWhsjZ1ozT1Z7kUxcqiMhUpdfnHVKoCynrXq6-Ei-pa=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCg2kiV0qAKilohGHvPiurDw/Live
+HTB北海道ニュース | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKYnUw-vKOyEavuGsKFtCwEX02kO4-b4Mty2A6xnUw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A/live
 
-Telemicro Canal 5  | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1 |
-https://www.youtube.com/channel/UCAVnMMAcnwZ67RS6SQtvPOA/Live
+日テレNEWS | Noticias | https://yt3.googleusercontent.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=mjdHKy23kJU&ab/Live
 
-Telemicro 5 EN VIVO MATINAL | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1 |
-https://www.youtube.com/watch?v==zCoepwfRhdw/Live
+TBS NEWS DIG Powered by JNN  | Latino | https://yt3.googleusercontent.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=fi11ZNVmrHc&ab/Live
 
-Telemicro 5 2 NIGHT X LA NOCHE | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1 |
-https://www.youtube.com/watch?v=1wzIdF83rgo/Live
+東森新聞 CH51 | Latino | https://yt3.googleusercontent.com/ytc/APkrFKY3iwbnG383ZkzKhgk1lR2av1o67wmmbs4onufLkQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
 
-Telemicro 5 LA OPCION RADIO | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1 |
-https://www.youtube.com/watch?v=YKJ08d9-3b0/live
+メ〜テレニュース | Latino | https://yt3.googleusercontent.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCWnOKASPkCBEL-_O8odMvtg/live
 
-Telemicro 5 LA OPCIÓN DE LA TARDE | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1 |
-https://www.youtube.com/watch?v=OZP7sJUHaIU/live
+ABC7 SWFL | Latino | https://yt3.googleusercontent.com/ytc/APkrFKYMAgxR1t8YwX9_kSLvr-gCKu5ZyWosTfO8w-y4=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=eXZ4-qp16nI&ab/live
 
-Telecentro Canal 13 | Latino |https://yt3.ggpht.com/ytc/APkrFKZhwFkkmy-95M1UXzy5KiiTxM5jGRWZPiaHEGhDGA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCKd3RqAWndTIflbZGmIoYKw/Live
+CGTN Europe | Latino | https://yt3.googleusercontent.com/ytc/APkrFKaDZq115iCjPaqu4ibhDUEyHP3QxwTI2sJrOlyvkQU=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=UP5z9dRC6RU&ab/Live
 
-Telecentro NOTICENTRO CANAL 13 | Latino |https://yt3.ggpht.com/ytc/APkrFKZhwFkkmy-95M1UXzy5KiiTxM5jGRWZPiaHEGhDGA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=5fYEH_j42Ys/live
+CGTN Europe | Latino | https://yt3.googleusercontent.com/ytc/APkrFKaDZq115iCjPaqu4ibhDUEyHP3QxwTI2sJrOlyvkQU=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
 
-NTelemicro5  | Noticias | https://yt3.ggpht.com/ytc/AKedOLRZvNYxp_lu4rC57qR0klDIM1UD6MFvHTZhKiXUFTU=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=W452bWiZA_8/Live
+Exitosa Noticias | Latino | https://yt3.googleusercontent.com/gbK3caD51gwFA3iBH9fj-HU2rIydwXvR3O4i5HLNryPVfCpjAXhzJJVYpzFakXQtS48rGCF0=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=yiQr_-Bzffo&ab/Live
 
-NTelemicro5  | Noticias | https://yt3.ggpht.com/ytc/AKedOLRZvNYxp_lu4rC57qR0klDIM1UD6MFvHTZhKiXUFTU=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCtTWmBBk2rh3uboPO9O_TEw/Live
+三立iNEWS  | Latino | https://yt3.googleusercontent.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=CKjSm5ZeehE&ab/Live
 
-Color Visión Canal 9  | Latino | https://yt3.ggpht.com/QPkZoQpYl0PeCuCL399RwZk3BP54VWvWFhxtBfEG-tqbHh3IBaKT6srEo9A7APJo-Uq8sp4F=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=T1v3K2pMo2U/Live
+LIVE NOW  | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKYS2PIkuH9lng7cP8Rf9SCkKU5CJvJ_hJO7gZEDpw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=9sE12tg3CmA&ab/Live
 
-Color Visión Canal 9  | Latino | https://yt3.ggpht.com/QPkZoQpYl0PeCuCL399RwZk3BP54VWvWFhxtBfEG-tqbHh3IBaKT6srEo9A7APJo-Uq8sp4F=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCiDATmLMS6XfkB7mh8pmeHg/Live
+Times Now  | Noticias | https://yt3.googleusercontent.com/GKw3-YGSe7_0K_Y8E-cqomjUmSvqD2E7kBJXaB05QTMYONC6RjJcMkLgtm8KdqX9EEV6QwgDGw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
 
+English Speeches | Latino | https://yt3.googleusercontent.com/3ErdBd0bg2Qw5rKdqDK-7vPAf0tirRuodlGGZuhZePQcjEu8i5KniCN-EUCBtQkSOy14M26O=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCLyr-hfWVCKHcZjV5fg3jbw/live
 
-Luna TV en Vivo | Latino | https://yt3.ggpht.com/hiwCM98wKPL3eV5tIpL3IMxm1ta8D0inN9zSRTsCDftCRIg7TKncaUVxECYnwnUFo31lOgutwA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=CN6B-iEL2NQ/Live
+60 Minutes  | Latino | https://yt3.googleusercontent.com/6is8wo4LohoLQWpC_HeuxcLjIimGuzJqYIqP4KRdeI6jQx6hgfbKOyIEaIV4mGwrpwI1dC5Y=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCsN32BtMd0IoByjJRNF12cw/live
 
-Luna TV en Vivo | Latino | https://yt3.ggpht.com/hiwCM98wKPL3eV5tIpL3IMxm1ta8D0inN9zSRTsCDftCRIg7TKncaUVxECYnwnUFo31lOgutwA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCUUqJkbJ3KHQkopzIrdHbdg/Live
+CtiTv  | Latino | https://yt3.googleusercontent.com/ytc/APkrFKaQyJwdcRtSMijlhIg7oOeHn8tcqCgPUsYSsPTk7A=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 
-La Telerealidad de Iván Ruiz  | Latino | https://yt3.ggpht.com/dHe_039iZq0xbTmKffhZ42AB4Vcs8k8UE2eJmsl41fYf93oI8W2JBXOZS2uVIvdfBFtV6KvA_g=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=LvVHYqmiAQc/Live
+LiveNowfox  | Latino | https://yt3.googleusercontent.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live
 
-La Telerealidad de Iván Ruiz  | Latino | https://yt3.ggpht.com/dHe_039iZq0xbTmKffhZ42AB4Vcs8k8UE2eJmsl41fYf93oI8W2JBXOZS2uVIvdfBFtV6KvA_g=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCSb5msuRFa4pIloR2l39BLw/Live
+ABC NEWS  | Latino | https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+
+NBCNews  | INGLES | https://yt3.googleusercontent.com/ytc/APkrFKZAnaUEDseMIRIwrnveP_km6sAOfl4emKeerOQC19Q=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
 
 Televisión Pública  | Latino | https://yt3.ggpht.com/5lHbUMHAepSNrhSsVMYkzfXNud-xXia5KHM9BP7iN-tK5ZHmyazhWcjL_r9RNgNQSkukolI_QA=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=ztAU9B_z36g/live
+https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
 
 NTN24   | Noticias | https://yt3.ggpht.com/ytc/AKedOLT7ZtmDrxATplotX1fl8x53PDsRyYeU0rlQlgpInm0=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/Live
 
-NTN24   | Noticias | https://yt3.ggpht.com/ytc/AKedOLT7ZtmDrxATplotX1fl8x53PDsRyYeU0rlQlgpInm0=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=NljIIqXoTUk/Live
+CARACOL   | Noticias | https://yt3.ggpht.com/ytc/AKedOLT7ZtmDrxATplotX1fl8x53PDsRyYeU0rlQlgpInm0=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live
 
 
-DW Español | Noticias | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF2b7qyM-3WI%2Fhqdefault.jpg&f=1&nofb=1 |
-https://www.youtube.com/watch?v=bKpGAHgpYoU/live
+DW Español  | Noticias | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF2b7qyM-3WI%2Fhqdefault.jpg&f=1&nofb=1 |
+https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live
+
+WRAL 5  | Noticias | https://yt3.googleusercontent.com/wzbbsyAO4PbvL0gembgQiInSWpzgW4DdZxlQBzK4p_UtJ-4rQimWO_iqRa2MlG0wMDhpgnqi=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCfmkz6A3aTJwJzox2xhAuRw/live
+
+WPLG Local 10  | Latino | https://yt3.googleusercontent.com/6AGUKj95cJTVBS5FKDg1UQF7ETsIK7jk9fOkMCgkZ6QfxHAZlYqlKUDYsNc_BDse18W3UZqRJJE=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg/live
 
 
-Venevision TV | Latino | https://yt3.ggpht.com/ytc/AKedOLQNLNQDVQoMzltR9cDhYtVi4T7eOfbrP2V7dpH4yw=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Zl1NjaMxr8k/live
+Larisa Verejan  | Latino | https://yt3.googleusercontent.com/TrqGJ1EH_zFb0UgOp48SJvt3-DtgOq95gB6_3kZepHzCjBC8segHqjC5o5yNNdIavo7WCG0Qmg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=XV0bK5HXp5c&ab/live
 
+Canal 7 Mendoza | Latino | https://yt3.googleusercontent.com/LPkwowY2codqCuMWnebTEV2qMilisd0RIjS59T5XmyqgCcTQSHlG_Rzs-EMzT9tI24VVdN2e=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
 
-Venevision Novelas | Latino | https://yt3.googleusercontent.com/VbZ6sN7iRMCv4NNe-g7XyWKXk-6EQuoz_9cxex4p0xj3Qlmj6jUONgB1nx4ncKLNfa504sSDj7w=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCE5np5zOB69QY2NFlFFp3wg/live
-
-Azteca Noreste Monterrey Nuevo León | Latino | https://yt3.ggpht.com/5CHtzoGHj1HV6XbIs8hoImcwjXrrnk48RY11vZGEAUovi_JnVZUiA1ZTcRa8BIieT4oF7_QbX7A=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC6kNHHQl1YY1SRp7AYfxlbw/Live
-
-Azteca Noreste Monterrey Nuevo León | Latino | https://yt3.ggpht.com/5CHtzoGHj1HV6XbIs8hoImcwjXrrnk48RY11vZGEAUovi_JnVZUiA1ZTcRa8BIieT4oF7_QbX7A=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=4rtYenPSjp4/Live
+Televisa Puebla | Latino | https://yt3.googleusercontent.com/EjiIorb3Bs2E9iJ4aTkYu8l0duGwOwhNWMvJdEQ5JGhuJBfoButtwmYXRBkenqRdTp_fgNQPwdU=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=aCaCshAgYMQ&ab/Live
 
 VPItv  Ve | Latino | https://yt3.ggpht.com/ytc/AKedOLSxx6wPZDlXdXllLfgSMl0rcHseeihrCZX1U4zgwg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=0iMpPy0HnkM/Live
