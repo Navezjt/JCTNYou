@@ -106,7 +106,7 @@ https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 NMás | Mexico | https://yt3.googleusercontent.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
 
-adn40  | Mexico | https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj |
+adn40  | Mexico | https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
 MILENIO  | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKYmR5YAIbo21AKhLLX8OTOZPgjZDltIcNSrX9mDcg=s176-c-k-c0x00ffffff-no-rj |
@@ -142,10 +142,10 @@ https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live
 Deep Calm | Latino | https://yt3.googleusercontent.com/NKBE1cahJvxE3mFhLn9az0iAwXOvrx6YcTqt5fYFTlcI-u3FTQrHoLu5RjTKQrT7ebq6G7Er=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCwSOBBlzVl2Ew8vY6_w6Q6A/live
 
-adn40Mx | Latino | https://yt3.ggpht.com/CQm37wy0J-Wv-qqG35DB6qA5LpL84sI2-skkAmMMUhh15YGj2t0LVurt4tJ0SV2dRGhomjF9mj8=s48-c-k-c0x00ffffff-no-rj |
+adn40Mx | Latino | https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
-adn40Mx | Latino | https://yt3.ggpht.com/CQm37wy0J-Wv-qqG35DB6qA5LpL84sI2-skkAmMMUhh15YGj2t0LVurt4tJ0SV2dRGhomjF9mj8=s48-c-k-c0x00ffffff-no-rj |
+adn40Mx | Latino | https://yt3.googleusercontent.com/DgGenE88XX-G0NldK5vx5NnoiM-UidXoetB0ufkH-GMVxIAVmBmV0K4AR_ABK0boTJiNjoBgDQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
 A24 EN VIVO | Noticias | https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s48-c-k-c0x00ffffff-no-rj |
