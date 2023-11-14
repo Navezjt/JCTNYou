@@ -628,19 +628,22 @@ https://www.youtube.com/channel/UCpzsmNuUEmod64DGgBDPO-Q/live
 TV9 Kannada | Kannada | https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png |
 https://www.youtube.com/channel/UC8dnBi4WUErqYQHZ4PfsLTg/live
 
-NewsFirst Kannada | Kannada | |
+NewsFirst Kannada | Kannada | https://yt3.googleusercontent.com/bqJwRLowxQJ0ZGAHRkDMIF_rDgvmpif5mBNOx0JcYKi-w23rfqllrv2D9fWf16eauelUrpUY=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFRlIV1mX-traJb5fd7S3nw/live
 
 TV9 Gujarati | Gujarati | https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Mvz3_9O4p4s
+https://www.youtube.com/channel/UCeJWZgSMlzqYEDytDnvzHnw/live
 
 ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC3C6_1ETXfE807LltDbKYxg/live
 
-Roland Martin Unfiltered | News | |
+Roland Martin Unfiltered | News | https://yt3.googleusercontent.com/ytc/APkrFKYa3AGc0zlYGkHh-6O8hEXgpRKLIr0oMI9GKxGd0g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/rolandsmartin/live
 
-Sky News | News | |
+radiouno.pe | News | https://yt3.googleusercontent.com/ytc/APkrFKYL_-ac3v-VWf7sWqVd0AhTpZehSHv-u2-AXskBMQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA/live
+
+Sky News | News | https://yt3.googleusercontent.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 Al Jazeera Balkans | ExYu | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png |
@@ -655,130 +658,157 @@ https://www.youtube.com/@JanamLiveTV/live
 Jai Hind | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg | 
 https://www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live
 
-Telugu Movies 2021 | Telugu | |
-https://www.youtube.com/watch?v=5UvC9XEAL9k
+Telugu Filmnagar | Telugu | https://yt3.googleusercontent.com/72_sSsLdBr5jZdISRixQg0oXr7bUXzdpTw0R7MfmCrW6YOLOpUvoZqSlil1GmnV8cA7ST3yBQSA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCintIUOJEktQBfhEI9XXpuw/live
 
-10TV live | Telugu | |
-https://www.youtube.com/watch?v=IHuHxUo4Yps
+GrandTV | Indonesia | https://yt3.googleusercontent.com/PCrTcZ4OdfxjPI3QtDq8Z6m2YGcrUR7vnXIyFHQttYE2yMmXg4kjVsphaRYcqOKxfvwwK5c-mQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCOuId57F0KOwFkLXCdTQSNw/live
 
-V6 News | Telugu | |
-https://www.youtube.com/watch?v=bl9VaUaI0r0
+ช่อง8 | Indonesia | https://yt3.googleusercontent.com/ZE5pEbtfkm6MIQ5ll-VXrSzc4HQmgu1bVx1eFmvIwAk4r0Bnd-HYCp72AUSWqOqnBnfrpCA_=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCtBu8Wb2BUoduUXJS9Uss7Q/live
 
-Sakshi TV | Telugu | |
-https://www.youtube.com/watch?v=8McTsOqeueE
+ข่าวช่องวัน | Indonesia | https://yt3.googleusercontent.com/z8L-R42Ga8ul32020hUf89-GiY41lOYhspmb1ok55Q1Xyx4VUzMFsg4LVFO78l1zG7RU14_7OZA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCqZ3is1Z4ck-I0ObYFw8OEQ/live
 
-hmtv Live | Telugu | |
-https://www.youtube.com/watch?v=qIY8IeluF9g
+3PlusNews | Indonesia | https://yt3.googleusercontent.com/nK2v_neppN_IK1Ca5mSsCaACexlC7ubRlAiyfJibsb28yMcVlXRs7CiaO5wWCjt1Jwq9zNwJtw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCirZPTc9IoKM_DsA9aKbc4g/live
 
-Mahaa News | Telugu | |
-https://www.youtube.com/watch?v=vIRyCXcbr6k
+GMM25Thailand | Indonesia | https://yt3.googleusercontent.com/xy_547w1nttQIydkdWKcHWpOoJGE43dtEGUFLDZiHB_aF-wYQ0-us7QAeR0MhQ6dOFfCMASAJQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCTP5z0kFg6-nPcZ79gTC67Q/live
 
-Prime9 News | Telugu | |
-https://www.youtube.com/watch?v=ckGosQTcDKE
+PBS NewsHour | Indonesia | https://yt3.googleusercontent.com/ytc/APkrFKZgWfRQE5xMqAh44MWZWkAtfFattOed7wlT8-EJNA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ/live
 
-Raj News | Telugu | |
-https://www.youtube.com/watch?v=ESrJb6uPgw8
+hmtv Live | Telugu | https://yt3.googleusercontent.com/UTRQE2BLwtLV8Z86Bn1YgOGACFne0YiyYNrQHP2gnO7cGb95aqG0OYo6Z4rMMFm9YzC9pTHIttM=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCNZOrs1QBt8cJnv9ud96qRA/live
 
-CVR Health Live | Telugu | |
-https://www.youtube.com/watch?v=BD2QdrBt0L8
+Mahaa News | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKYtvR-5P2dQo7jhnsQcpAKAInNpLwi1NkN00nVJXg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCDKjhgRoPF1CQk7HluMz23A/live
 
-Top Tollywood hits (Aditya Music) | Telugu | |
-https://www.youtube.com/watch?v=W9NyVYHtrIU
+Prime9 News | Telugu | https://yt3.googleusercontent.com/W5cLN3UUH2bEHM8Q3t-h9G1vN5HY7J8fcqH0e-350RrMEtKF_vFNa4ZB4UJSQWZCFGz8OLKd-g=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCLTZ5y21NnklrxpU5AfWd8w/live
 
-Studio One | Telugu | |
-https://www.youtube.com/watch?v=4BcPdYGwmIo
+Tollywood Hits (Aditya Music) | Telugu | https://yt3.googleusercontent.com/FA98Wt-W9Dnxd7YFMvUqjMI5SWGN5Ex4K2nm8pCyljcCY6bLTVZ-RiUo23CUTTUoBAiK9dlrIA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCNApqoVYJbYSrni4YsbXzyQ/live
 
-Studio Yuva | Telugu | |
-https://www.youtube.com/watch?v=zV2ndzKjGT4
+Vanitha TV | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZsi5hrsNhIWZFwqtvNg3XrkR8ewPc1yFGn_DAb=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCTcH-GOkexQHWKBWSfOjhPQ/live
 
-Vanitha TV | Telugu | |
-https://www.youtube.com/watch?v=jhF1FXu5RrA
+Bhakthi TV | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKYPZAebLbTHRLis5uu1DhRzMNpQbZ5Yhgq3MIi4mQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCSzOZ97LOpU-_AVlGfmD4rQ/live
 
-Bhakthi TV | Telugu | |
-https://www.youtube.com/watch?v=d0dB3kSCMmM
+N&T Party | Entertainment | https://yt3.googleusercontent.com/ytc/APkrFKaUtU65e_XlQOYdVJbozwEoKkg-JqQ0C9g3glcA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCC9rwt1T2i4klATksN6prdQ/live
 
-Best Shuffle Dance Music 2021 | Entertainment | |
-https://www.youtube.com/watch?v=qWf-FPFmVw0
+NDTV Profit | News | https://yt3.googleusercontent.com/ytc/APkrFKZjM65NDDh9qG-KkNgyNf5xrAiDiaH4yotF09hn=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCJEtD6JDgNKxcPJPBOAf-Tg/live
 
-NDTV Profit | News | |
-https://www.youtube.com/watch?v=GPKXF3mzAlU
+NDTV 24x7 | News | https://yt3.googleusercontent.com/ytc/APkrFKaUBpnr_EsmYR_08LnHUU1MksFgnls79N5ac0GgCQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q/live
 
-NDTV 24x7 | News | |
-https://www.youtube.com/watch?v=WB-y7_ymPJ4
-
-NDTV India | News | |
+NDTV India | News | https://yt3.googleusercontent.com/ytc/APkrFKaUBpnr_EsmYR_08LnHUU1MksFgnls79N5ac0GgCQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=MN8p-Vrn6G0
 
-IndiaTV | News | |
+IndiaTV | News | https://yt3.googleusercontent.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 
-Aaj Tak | News | |
+Aaj Tak | News | https://yt3.googleusercontent.com/ytc/APkrFKZKgGzdubzPHWv93ioZkQ1FGX4HhMOZGEsoHQrc_5U=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=Nq2wYlWFucg
 
-Ibiza Summer Mix 2021 | Music | |
-https://www.youtube.com/watch?v=GnYNHbq24H0
+Aaj Tak | News | https://yt3.googleusercontent.com/ytc/APkrFKZKgGzdubzPHWv93ioZkQ1FGX4HhMOZGEsoHQrc_5U=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live
 
-Онлайн трансляция телеканала МУЗ-ТВ | Music | |
+Телеканал 1+1 | News | https://yt3.googleusercontent.com/tNuyTK2uEqFyqgzlf6idH2ExJQtEbPLfMru9UY6kKMAAFzwj0SvlWj3r9dACRcljad7tqe1w=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
+
+ТСН | News | https://yt3.googleusercontent.com/wEuVi81hi3BQNkZVAAycZuvOKrZ2fWO7owzbiahnir5TFlpaA_V3usMuDKTzoZXdW1q8JKlK=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew/live
+
+Настоящее Время | News | https://yt3.googleusercontent.com/DaV-yEdy-cBqcyEHcrjzkYbJxUBuLGJgFD1v6DSkX-FI8gclofHf4HtJ0pv_nCVol0jut4_UPw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCBG57608Hukev3d0d-gvLhQ/live
+
+Телеканал ICTV | News | https://yt3.googleusercontent.com/ytc/APkrFKZo3KUPqZ8RhDnA1nc3TN5G6a5UsNqvMejTEseRAac=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCa85JIfBxZgcrsd8Ar7Z9nw/live
+
+Телеканал Рада | News | https://yt3.googleusercontent.com/hFc01pqtCtAbOHOo0Zr7aHyQDGAyegEMcpLwDC26-QdcPu3743ZUXMU0kUUFOMfv_gkNSS3K=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5V8mErVFOpcQXEb3y9IMZw
+
+УНІАН | News | https://yt3.googleusercontent.com/hBqsrjY3OqOFOFulDgd0WFcwXRXrcj5rSZooz3rWZJDA0uYyYljIdiV6J11M4ymuCWXHIBQvEA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCKCVeAihEfJr-pGH7B73Wyg
+
+Телеканал Прямий | News | https://yt3.googleusercontent.com/LOAjtAl31lDNGQ92qqk9RYUR9H3Xj-EGr7pxRTUsOclP94brCKaiFcQLB7fMxFQJTcFVLEtXBQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
+
+24 Канал онлайн | News | https://yt3.googleusercontent.com/ytc/APkrFKbF_700k-nmTsZ3phS-oaL7pnMFdmG2BZabMDPL=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCja992VI_u2e52c9FHQXw5A/live
+
+Факти ICTV | News | https://yt3.googleusercontent.com/I2LeW2KOPexSQ22-aJ59T6ErWsiSI-tVuvLN7KmYvB8T3q37C47GQvxHXg6dBHKhgb_VTkBjGA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live
+
+Советские мультфильмы | News | https://yt3.googleusercontent.com/pl38Js-oveiMZhVVn7Y1NFd8WXJLL4LTaZScVnIM5tL5SNb__kp8vX3q1iIk-RWMXWPvOkjB6Q=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCqKyIUdsk78t85MxLRSR5kQ/live
+
+Ibiza Summer Mix | Music | https://yt3.googleusercontent.com/6cqNWHNnAp13ie0SRrX1qlSowwGCwQOYV-ZkL-RhIzQEyqFASTzu72YB5v1qcyASCaOtFR4gaw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live
+
+Онлайн трансляция телеканала МУЗ-ТВ | Music | https://yt3.googleusercontent.com/xo-nIfGJ93Kcyz_UHoazKz4cyYmqYeo1M98XIlgnw7fzublbFpQGVWeLRd15mfRzejI_pEll6g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=v3yB_oSH10c
 
-Kral TV | Music | |
-https://www.youtube.com/watch?v=88tf0H1ycDU
+Kral TV | Music | https://yt3.googleusercontent.com/vHF_7bhk2Zkv4l9_TbTUqeeoWx-Q9KBnFGjk51n974tgBUjyJYf87Rz_YM39X5sagj2TZDE6lg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCEAW_kmPVjxTC50vuLyKOQA/live
 
-Kral Pop TV | Music | |
-https://www.youtube.com/watch?v=dEHMR7Qpthw
+Soothing Music | Music | https://yt3.googleusercontent.com/gGTTCXwqgLR8AOVmSdL1PKh7OEM7lAmJytZySNCAmeOeKv0ZYYV52OGObC5yfsBm9sCIJ9P3Ig=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC0hCut6SIbAgWwEqVqKe24Q/live
 
-QT Relax Music | Music | |
-https://www.youtube.com/watch?v=da8MqCnF1mQ
+44K Video Nature  | Music | https://yt3.googleusercontent.com/h7b6wa8_7dFMZRr9qeyD2qPPRbKDryKCI7ks0PKKpoS98IefZd5tl5Xm1pq-uRzDVmklfQKBWEw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCNlfGuzOAKM1sycPuM_QTHg/live
 
-4K Nature 24/7- LoungeV Films | Music | |
-https://www.youtube.com/watch?v=2CD9aEjFZwU
+Rodos Palladium Beach Live | Livecam | https://yt3.googleusercontent.com/ytc/APkrFKbmsv-VUVliut1TqYn5tq-5GKpk237IDVTZu3yy=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCVwale2XH1_In8HAlZIEfOA/live
 
-Rodos Palladium Beach Live | Livecam | |
-https://www.youtube.com/watch?v=drhmo4XSVYA
+OE24 TV | News | https://yt3.googleusercontent.com/ytc/APkrFKbv9s4FyhrNP46bSzOH0pkYfpccJRUJrNjZtskV5g=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
 
-OE24 TV | News | |
-https://www.youtube.com/watch?v=Pzuv6pRsur4
-
-MAD TV Greece | Greece | |
+MAD TV Greece | Greece | https://yt3.googleusercontent.com/kuTJ-7n0iwUZSLftUpZcWZ9eL9-eRwopMM-EWkSChxzxfODxVVRDUz9S4BycUt3QfEsne0g8yQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/madtvgreece/live
 
-The World Live- earthTV | Entertainment | |
-https://www.youtube.com/watch?v=BW6yxWvqEd0
+1062madradio | News | https://yt3.googleusercontent.com/U5QIj1AnrHiq7BgTYXzUxvKZDrhZeY9vzCC5RJ_3pHz07EeqFPTm1JpmiZkOVmr_SJrxdlDaCQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w/live
 
-Habertürk TV | News | |
-https://www.youtube.com/watch?v=SqHIO2zhxbA
+The World Live- earthTV | Entertainment | https://yt3.googleusercontent.com/ytc/APkrFKa-xGpROAHbNFxNgTblZCz68dessgfCFyPuGoOGiQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
 
-Alternative Radio | Radio | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png |
-https://www.youtube.com/watch?v=5X18D-EbjUc
+Habertürk TV | News | https://yt3.googleusercontent.com/ukCrRkXonAVl29DJoIiDfasQ9Kvic5jV-ZLR5Osmnnqs5KyQEjvOyO-3MOb2aFR2hHgInrV_LA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA/live
+
+FREQUENZY | Radio | https://yt3.googleusercontent.com/2sNPfTkVqvYH19SDpfiOhFlf0OtZNPwMrkrwk5MhhgJC2DBzxiNCWpjPvU5fwlK8QOSxf4TsQxY=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UClRJcsRS9YETAAj0nG_pX6g/live
 
 Best Suffle Dance | Radio | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png |
 https://www.youtube.com/watch?v=qWf-FPFmVw0
 
 Meditation Music | Radio | https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png |
-https://www.youtube.com/watch?v=Pnjf930F4r4
+https://www.youtube.com/channel/UCwobzUc3z-0PrFpoRxNszXQ/live
 
-Oldies Mix | Radio | https://weloveradio.ch/wp-content/uploads/2019/05/radio_oldies_logo_640x640.png |
-https://www.youtube.com/watch?v=TpyMQGeFFpo
+Oldies Memories | Radio | https://yt3.googleusercontent.com/JthNGrF_LQc4pejAEC4UX8BDoScv-MhrRq-xlopHAqEfw7TctiTZShHjbPU1uGXrsW2m0ruC=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC9ZpuPnDSvTJWpTix1Ra8BQ/live
 
-Radio 90s Mix | Radio | https://www.pinclipart.com/picdir/middle/98-986111_17-mar-logos-de-los-90s-clipart.png |
-https://www.youtube.com/watch?v=CyPqFllXb9s
+Best of Mix | Radio | https://yt3.googleusercontent.com/okkF6eVZXyHeNC2pAAmnh1DVmD8aTPxHOj5SWA0iORbQrczFAZ0ddbw_lduuT8TCsaZGoTXhrqw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCSx0CKSPK_jUE2REJtgHIPA/live
 
-Rock Radio | Radio | http://1.bp.blogspot.com/-tTku4g-q6iE/T7qzfDLuaXI/AAAAAAAAFsI/bxJickyvn6w/s1600/Radio+Rock+logo.png |
-https://www.youtube.com/watch?v=L5vWEHSEsZo
+Rock And Pop | Radio | https://yt3.googleusercontent.com/rSv0hW7eUu6aPNfa4VjyafTcenzv2tf5n1gZf-vV_XmN0b7gLgECNc4Mh6qtSZgipRVJnjQ2=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g
 
-XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ... | Music | |
-https://www.youtube.com/watch?v=YsBe9BFIjBs
+XDeep Club | Music | https://yt3.googleusercontent.com/ytc/APkrFKYLkJN_R1xAabY9jTjulIayoagxv7L2DRvwY_-qrQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCB37LnggqsIkEK-sdV4zgiw/live
 
-XDeep Club-Ed Sheeran, Kygo, Dua Lipa, Avicii, Martin Garrix, The Chainsmokers... | Music | |
-https://www.youtube.com/watch?v=NkV2tCIIZuE
-
-Chillout Lounge - Calm & Relaxing Background Music | Music | |
+Chillout Lounge - Calm & Relaxing Background Music | Music | https://yt3.googleusercontent.com/ytc/APkrFKZRm8qB3Hshf01VJwj9P0N0rZb4B8ne65R4GL4UAQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=9UMxZofMNbA
 
 ATV Canlı Yayını | Türk | https://yt3.googleusercontent.com/3TMcmg4iyQB9t20BMakYgcQcqvwsCF8Uf0GGZQ6XntvJmDx_EdELPtlALCW7Eq1sNlR6QZ_X91U=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live
 
-Star TV - Canlı Yayın HD | Türk | |
+Star TV - Canlı Yayın HD | Türk | https://yt3.googleusercontent.com/ytc/APkrFKann94CgqWQzXAazvhS_osKIuKQGgfR58ckByc2=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCsFINj3y7SjBaeUxiSdRjlA/live
 
 Show Türk Canlı Yayın | Türk | https://yt3.googleusercontent.com/vbmziYmRa6dOqKZNBOYZ4MCFme29USAiPrDcVAEapOt9STq3pWQvFetnn9TAIn12n3zGaS4_=s176-c-k-c0x00ffffff-no-rj |
