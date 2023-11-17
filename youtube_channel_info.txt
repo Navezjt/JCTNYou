@@ -2863,15 +2863,3 @@ https://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ/live
 
 TV100 | NOTICIAS | https://yt3.googleusercontent.com/4CNJm0pUovHYqJWisZeJc98Gx9_lUcThNNM9ejwWpm_XE6Kq1XQWemmp8Y-ww96jBJeBlm-_qw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live
-
-vozdeamerica | Noticias | https://yt3.googleusercontent.com/nAhzUMn6lADmKwqfysdZks793n6z0pqGTsl7wT06D9sSIVcXn-HFo2N8NSg0ZHu_JtUxlq-bRg=s176-c-k-c0x00ffffff-no-rj |
-https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
-
-DobleAA | Noticias | https://yt3.googleusercontent.com/ITd8_GwygQKPN5aTLFDtI8EzpO22RvAXAbUly-MKRt_Jn_HJW0fTsXJ_iAm8texBdxp5U1qEsnU=s176-c-k-c0x00ffffff-no-rj |
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-
-ATN TELEVISIÓN | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKbNsLOZIxb2ttHPs2_5pCcAUcp8WTsKKScL52nw5A=s176-c-k-c0x00ffffff-no-rj |
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-
-Ariana News | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKZbbK45Q9HIb4a313_wziPhjUACQcls1iEvPlgZpw=s176-c-k-c0x00ffffff-no-rj |
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
