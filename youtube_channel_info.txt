@@ -1003,7 +1003,7 @@ https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
 BBC Persian | Persian | |
 https://www.youtube.com/channel/UCHZk9MrT3DGWmVqdsj5y0EA/live
 
-Euronews | English | |
+Euronews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 
 Rangin Kaman | Persian | |
@@ -1090,7 +1090,7 @@ https://www.youtube.com/watch?v=21X5lGlDOfg
 NASA Live: Official Stream of NASA TV's Media Channel | Documentary | |
 https://www.youtube.com/@NASA/live
 
-Euronews România LIVE | Romania | |
+Euronews România LIVE | Romania | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/watch?v=tdwXKd9Gqb8
 
 Z-TV.TV Live Stream | Romania | |
@@ -1297,7 +1297,7 @@ https://www.youtube.com/watch?v=D5nbz4NWhuo
 LS FM | GMA Network | |
 https://www.youtube.com/watch?v=NdOD2fzf7PM
 
-Euronews Greece LIVE | Greece | |
+Euronews Greece LIVE | Greece | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/watch?v=uWIhV9gQClg
 
 ANN JapaNews24 | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
@@ -1633,10 +1633,10 @@ https://www.youtube.com/BloombergTV/live
 Bloomberg Quicktake Now | English | |
 https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
 
-CNA | English | |
+CNA 4 | English | https://i.imgur.com/vMht7AD.png |
 https://www.youtube.com/user/channelnewsasia/live
 
-France24 | English | |
+France24 4 | English | https://yt3.googleusercontent.com/ytc/APkrFKYRq-bhGfLFfXETSwcuxs-d-JKR9IwODEY_yIBpdQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/france24english/live
 
 ABC News US | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
@@ -1654,13 +1654,13 @@ https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 WION | English | https://www.lyngsat-logo.com/logo/tv/ww/wion_in.png |
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-Euro News | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
+EuroNews 4 | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/user/Euronews/live
 
-Euro News | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
+EuroNews 5| English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 
-Africa News English | English | |
+Africa News English | English | https://yt3.googleusercontent.com/L8irqEmpi37buYveRShxDoYvBTtJs4UboF4yo7sPY86uzdIy_oJ06A3VsP-TGjzFpEewg_iV1Cw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live
 
 NTV Uganda | English | https://yt3.googleusercontent.com/ytc/APkrFKZzdwbTh-OBGc_GySuaooD2o07tV0lAXHhZKrvLwno=s176-c-k-c0x00ffffff-no-rj |
@@ -1768,127 +1768,127 @@ https://www.youtube.com/@France24_es/live
 Canal 26 | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png |
 https://www.youtube.com/@canal26/live
 
-TVC News Nigeria | English | |
+TVC News Nigeria | English | https://yt3.googleusercontent.com/2LHn8OjlC6kVN1UXCb9FqQZHV8Dfehizn96l_60PwiB99qsq-xSuPf1K8QV-WuVyvOSdEiLoHw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA/live
 
-VATICAN NEWS | English | |
+VATICAN NEWS 4 | English | https://yt3.googleusercontent.com/BPYRjWqStlcpmDQ-oRb4m-AA1W1LhOAGp6E-Fgdy7up9W0QIYKVW2Pry7OFY9g1KQRfOCvZfd1g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCxIsefyl9g9A5SGWA4FvGIA/live
 
-Yahoo Finance | English | |
+Yahoo Finance 4 | English | https://yt3.googleusercontent.com/xQSa0-v8cp8qlUpogSJFeAC4ryeMZG90l3f4ImDCMCoHNhN74S6cZ1kFsIl2et3EQN_aiyjk=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg/live
 
-TODAY | English | |
+TODAY 4 | English | https://yt3.googleusercontent.com/ytc/APkrFKZRucSXlbwsWWP17nEPo0F39VgfHDQsxu-xM8ze4jo=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/live
 
-DD INDIA | English | |
+DD INDIA 4 | English | https://yt3.googleusercontent.com/5UnQaENeR3Y9WgYc94GCLzByBaweS-SlFFfjsIvPm_yWD0QOWs94EqmI-6GWhrd5S05DyWme=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 
-BUSINESS TODAY | English | |
+BUSINESS TODAY 4 | English | https://yt3.googleusercontent.com/A4kk7G5d3CxscyINbtBXoMwBpl3BMEEOzopRikXTDU_GFlL6vVE1A3-IRPlrSde-IE2DlQLk1z4=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/BusinessToday/live
 
-Bharat24 | Hindi | |
+Bharat24 4 | Hindi | https://yt3.googleusercontent.com/O8IF2aZDXIqbLgWg5Wvu8pNffULaU7lS8PmGB5_UlK2kxqJoFBlR-uA0y0ErwjTEG33EUAn58Q=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/Bharat24Liv/live
 
-Sadhguru | Hindi | |
+Sadhguru 4 | Hindi | https://yt3.googleusercontent.com/qaUDxW_k7xq6zrO6BaUUqdlzo57P1VzLVkusn8zOtpLg1gFrNmJXkt_g5eDi97tvGtA96T1JTQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/sadhguru/live
 
-Dabangg TV | Hindi | |
-https://www.youtube.com/c/moochkurao/live
+Chilevisión TV 4 | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKZcoaqDHsZ7wLn4TL53lGejd3FQ82rmdzJ1zmq_Ug=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC8EdTmyUaFIfZvVttJ9lgIA/live
 
-Mastiii | Hindi | |
-https://www.youtube.com/channel/UCtgl-w7Xc3CWTQ6WQYxqbKg/live
+THE K-POP2 4 | kREA | https://yt3.googleusercontent.com/qjY5_GcDN5xdZeI2sLZSSD8eUt-AL2QMsLueHXTNiIMpyddJ0kRWhP5gZrCGsB97EaTDGnSE4Q4=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCITH7URIRpb8yoshUwGE9jg
 
-Mastiii | Hindi | |
+Mastiii 4 | Hindi | https://yt3.googleusercontent.com/0bPvMqhXwnKZFw_Eu4jD6zhTlnEVabOxqfHiTB31LKKC_GTbH-58HU32BVg5mMUWCkWZLdlylA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/mastiiitv/live
 
-NDTV India | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png |
+NDTV India 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png |
 https://www.youtube.com/user/ndtvindia/live
 
-Shemaroo Comedy | Hindi | |
+Shemaroo Comedy 4 | Hindi | https://yt3.googleusercontent.com/kFIm8K_VJqJKFBt8ePn-wVIvG0ZYeIQxw7Ok9eEkYjOSsyebG7wStrOQOcv4GDtbd6Y4zZa9oo0=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0PKLLmL8pIJLjOI1gBH_pA/live
 
-Shemaroo Comedy | Hindi | |
+Shemaroo Comedy | Hindi | https://yt3.googleusercontent.com/kFIm8K_VJqJKFBt8ePn-wVIvG0ZYeIQxw7Ok9eEkYjOSsyebG7wStrOQOcv4GDtbd6Y4zZa9oo0=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/indiancomedy/live
 
-Hindi AR Entertainments | Hindi | |
+Hindi AR Entertainments 4 | Hindi | https://yt3.googleusercontent.com/12r8G1u_pzbUpZ-TTJbhvbl7RjOmbiRvwMAQiXERGJg7n6oqR0IccdcMGXzbNDX5881bgr27=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCF_xLQFSgkdQ3hcsSy9F3Zw/live
 
-India TV | Hindi | |
+India TV 4 | Hindi | https://yt3.googleusercontent.com/xvSPpZd-kEa6T3KgnlWv5YYkzLxf9UjWwnjlVBhtJR67qcipOq0sBjrgOd5_46mdoCE3cglT_w=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/IndiaTV/live
 
-Times Now Navbharat | Hindi | |
+Times Now Navbharat 4 | Hindi | https://yt3.googleusercontent.com/s6K7Y46LEug1os9yNZh4sFhrE4-RpHjJg8TQGUnCxzXabA3kE6SGcNslIRB9ihNK1fVgVjda7Sg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCMk9Tdc-d1BIcAFaSppiVkw/live
 
-ET Now | Hindi | |
+ET Now 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKawOwo_3eaq-1uwtmWg5oPJFpK56iJcBFqmygk8y-c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/ETNow/live
 
-ET Now Swadesh | Hindi | |
+ET Now Swadesh 4 | Hindi | https://yt3.googleusercontent.com/-a033jkBNCIZTNMad0WhAeX6od0UeZMBmJD1qrO81kADBxXpO_uZL9jPYI-VP6IUXPAdpUG4Lw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCD3CdwT8lTCe5ZGHbUBxmWA/live
 
-INC TV Congress | Hindi | |
+INC TV Congress 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKYI_ztG_PDHF8E9wJqQLs2YoUf9DOrRktmEyXIN=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCdneAUQkslIONkpxY5kgbrQ/live
 
-INBCN News | Hindi | |
+INBCN News 4 | Hindi | https://yt3.googleusercontent.com/gf2iYGatbkqaEsDM07YgZrGNQYpcRemE6w8G_QC44580kWBMzkpCt3lzrtK5dVU-KbFxl6OkaQY=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC4D3WMBqMfS5f9QrcT6xkgg/live
 
-A1TV | Hindi | |
+A1TV 4 | Hindi | https://yt3.googleusercontent.com/w9IMDwDt_spQbA5e_6iFIneI98-5J_MXI3VfQLrCslhBxaWFzuaegZhwmdNkaYno8Sf0lqujTw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCyky9PDwU5cClLPYSLVhQmQ/live
 
-Sagar TV News| Hindi | |
+Sagar TV News 4 | Hindi | https://yt3.googleusercontent.com/3NCSfSWwp8m3jWfPhLqArtfpatX7daT1MGWkKKkP1WiHJr5IQqPxzmY_5ImE5aCvMLhkAQT6=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0H9yv0_HwJLu_hVj6X3flw/live
 
-Metro City Samachar | Hindi | |
+Metro City Samachar 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKZs5gAQsrOjKd-nuMJMiSUyWSeMihFGic74EW5sgA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCz6bsE-JWziWZlgLK-ESkYg/live
 
-MP News TV | Hindi | |
+MP News TV 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKatykqV_519aTHzwagcouMcGxgn6TuTXn8_d45N4g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCgnZSWl-C28cCwABQw5qC9w/live
 
-TV9 Bharatvarsh | Hindi | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-bharatvarsh-in.png |
+TV9 Bharatvarsh 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-bharatvarsh-in.png |
 https://www.youtube.com/channel/UCOutOIcn_oho8pyVN3Ng-Pg/live
 
-Republic Bharat | Hindi | https://www.lyngsat-logo.com/logo/tv/rr/republic-bharat-in.png |
+Republic Bharat 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/rr/republic-bharat-in.png |
 https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng/live
 
-Aajtak | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
+Aajtak 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
 https://www.youtube.com/user/aajtaktv/live
 
-Aajtak | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
+Aajtak 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
 https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live
 
-ABP NEWS | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/abp-news-in.png |
+ABP NEWS 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/abp-news-in.png |
 https://www.youtube.com/user/abpnewstv/live
 
-ABP Ganga | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/abp-ganga-in.png |
+ABP Ganga 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/abp-ganga-in.png |
 https://www.youtube.com/channel/UCUGwnDFBHY52YhgVjn-Tvww/live
 
-DD NEWS | Hindi | https://www.lyngsat-logo.com/logo/tv/dd/dd-news-in.png |
+DD NEWS 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/dd/dd-news-in.png |
 https://www.youtube.com/user/DDNewsofficial/live
 
-Bharat Samachar | Hindi | https://www.lyngsat-logo.com/logo/tv/bb/bharat_samachar_in.png |
+Bharat Samachar 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/bb/bharat_samachar_in.png |
 https://www.youtube.com/channel/UC8Xb-hkR53QVN4GlUHi1iZg/live
 
-Good News Today | Hindi | https://www.lyngsat-logo.com/logo/tv/gg/good-news-today-in.png |
+Good News Today 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/gg/good-news-today-in.png |
 https://www.youtube.com/channel/UCQC1wGbOOIoC23fRGxt4kbg/live
 
-Good News Today | Hindi | |
+Good News Today 4 | Hindi | https://yt3.googleusercontent.com/V3obFH3nqu6nK_Ah1sMKTPUibMbCBiFjmGZHVbRR2Wo3GUmwDBw3tAL532MsmJgl36erYg3Od1s=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/teztvnews/live
 
-Zee Hindustan | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-hindustan-in.png |
+Zee Hindustan 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-hindustan-in.png |
 https://www.youtube.com/channel/UCjFKMoAk3qhRkW4eOqNm6dw/live
 
-Zee Business | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-business-in.png |
+Zee Business 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-business-in.png |
 https://www.youtube.com/channel/UCkXopQ3ubd-rnXnStZqCl2w/live
 
-Zee News | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-news-in.png |
+Zee News 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/zz/zee-news-in.png |
 https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live 
 
-Zee News | Hindi | |
+Zee News 4 | Hindi | https://yt3.googleusercontent.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/zeenews/live
 
-Zee Delhi-NCR Haryana | Hindi | |
+Zee Delhi-NCR Haryana 4 | Hindi | https://yt3.googleusercontent.com/BnCKYkjh804cA6ZtbTjfWw3jbbc7P_yBdGlhZ86aePNu_JMrTvkWxmgBn4knG7BZAzEbjCq2cw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCG6L5cIg2XZvXVksq5B9edw/live
 
-CNBC Awaaz | Hindi | https://www.lyngsat-logo.com/logo/tv/cc/cnbc_awaaz.png |
+CNBC Awaaz 4 | Hindi | https://www.lyngsat-logo.com/logo/tv/cc/cnbc_awaaz.png |
 https://www.youtube.com/user/cnbcawaaz/live
 
 News24 | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news-24-in.png |
@@ -1903,124 +1903,172 @@ https://www.youtube.com/user/TheRajasthanPatrika/live
 Rajastan Patrika | Hindi | https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png |
 https://www.youtube.com/channel/UCWk-7Yosyvzln9ZzJg8BvVg/live
 
-PATRIKA MPCG | Hindi | |
+PATRIKA MPCG 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKbIh1j1tmNIE0Wf8AgyWwKKCMHMDQD-rkyYSEBC=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCKrXAcPJPFewJ0z1G-GgjTw/live
 
-Aawaz News 24x7 | Hindi | |
+AawazNews 24x7 4 | Hindi | https://yt3.googleusercontent.com/wHJ-_-La273CioPjx2rNKPoTaj_tx7-UOp4SziTMirZoa6UBoH2piDcKrEsQFG6w1-05bY-H=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC1SGtSdyDe2y4DRMMBW72pw/live
 
-PIB India | Hindi | |
+PIB India 4 | Hindi | https://yt3.googleusercontent.com/JfHGEShfw3vAaShXU7n3zpkizk5KBQnzkVLxmRVB7cSuSH8u07ePMtPEj5UG-9BbefkHcRARXw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/pibindia/live
 
-Digital India | Hindi | |
+Digital India 4 | Hindi | https://yt3.googleusercontent.com/ZOh8PLRnZJBugB5Fs6x_5KSGdpOXDM_ogq-Fmt0nJDpy9_MPQvcrMNvo0XCk38Kw5kyV89uG=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/DigitalIndiaofficial/live
 
-NEWS ON AIR OFFICIAL | Hindi | |
+NEWS ON AIR OFFICIAL 4 | Hindi | https://yt3.googleusercontent.com/5A2EyCCMJ8gtHTjEK0gXD0gt4Ew6S9TkN60mr-Nor9VrIIRaIjvdnchFbl99jgBLU1_rz9yBfQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w/live
 
-AIR NEWS 24X7 | Hindi | |
-https://www.youtube.com/channel/UC5Hxu03Gc0GElwwEClVb5WQ/live
+KBS WORLD TV | Korea | https://yt3.googleusercontent.com/ytc/APkrFKb0EW_6KpUtdFrBPleOH8ENGLA_3RYfrl48drS0XYI=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
 
-ANAADI TV | Hindi | |
+KBS WORLD Radio | Korea | https://yt3.googleusercontent.com/ytc/APkrFKZTzpI7PY8wug7Msq5ybjFuVbbmUTlkgU0zZX_-uQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCLzKdLArJQvW-D2dw6g5zAQ/live
+
+GCNTV Korea | Korea | https://yt3.googleusercontent.com/ytc/APkrFKYtl2PkTCBKTEqZkroqjvqVGYgIwxDosi00YLqL5A=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCqGxkgVnPc7arUR7MdCi99g/live
+
+YTN | Korea | https://yt3.googleusercontent.com/ezG7fZAoI4puqxZvEHRY0Xfwl6CcR3bWRadwh-lg_-JSuBw9aK6hpJuR5wIlu1WHhsvseAWzfyA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
+
+YTN2 | Korea | https://yt3.googleusercontent.com/ytc/APkrFKYmpPB8dEptQAimTQZVME6p6hWpB7FY_Yp5Q7Mejw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCDww6ExpwQS0TzmREIOo40Q/live
+
+KBS Joy | Korea | https://yt3.googleusercontent.com/wNoNXmOpkCgBiPmx8pusWVLDeXIADKo1MhiYz22JBdpVxzCFII7kbZ9g8ihRh1oRszvrvwetgw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCr0adenI5KeQFJkMIGjq5qw/live
+
+THE K-POP2 | Korea | https://yt3.googleusercontent.com/qjY5_GcDN5xdZeI2sLZSSD8eUt-AL2QMsLueHXTNiIMpyddJ0kRWhP5gZrCGsB97EaTDGnSE4Q4=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCITH7URIRpb8yoshUwGE9jg/live
+
+LIVE NOW | Korea | https://yt3.googleusercontent.com/ytc/APkrFKYS2PIkuH9lng7cP8Rf9SCkKU5CJvJ_hJO7gZEDpw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+
+JTBC Drama | Korea | https://yt3.googleusercontent.com/VK7LJ_7GlVdDQHTxqDq082zE_FQhiUpKi3lQGAUtbt5vZH-uGVBq3wWXXA3MhaCyf44saCu5NQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCkbJc8jMcTXwhtmN5VMwfXg/live
+
+YTN dmb | Korea | https://yt3.googleusercontent.com/ytc/APkrFKazrRqMgkGjttNv1l4XUJc86BomYeaTZFD3EvKBHg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
+
+PBS KIDS | Korea | https://yt3.googleusercontent.com/zaMIMLXJM2PXvUAA-FZuCOIFxKpMU94L-QfqiCeoOnkM55TXd3fppYBaMYbCJ-x2HiFDBovIklk=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ/live
+
+World Poker Tour | Korea | https://yt3.googleusercontent.com/tUoCcMWfGISu5Bb_j2dorGlRGrtw8PNHhJyShDSqWiaCueQiGxoP7jw2dRDcHJGpsDLoDJnq4A=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCEUGxpG2rkyJlCvr46PBr6g/live
+
+KBS News | Korea | https://yt3.googleusercontent.com/gsNDSfvzKpZT0OEjTBFH5PxokZ7WeZQU5PcsMWD8vJyBI6ts4uUDic_KsipnVbIUhtToblLaig=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
+
+Piano Jazz Cafe | Korea | https://yt3.googleusercontent.com/c76CjF7UWGHhRvUdtOZLY36-Wde6eOqvpQKdTHLhpPVZ10yjx3Hm5bu3GMp07meUbUhGQqq9=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCLsnEeB43zh--skL-DndhCA/live
+
+NHK WORLD-JAPAN | JAPAN | https://yt3.googleusercontent.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+
+【公式】HOME広島ニュース | JAPAN | https://yt3.googleusercontent.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+
+TaiwanPlus Livestream | Taiwan | https://yt3.googleusercontent.com/7oHDLfe2OmUa1JKmmkZNDMKE05gOuz8zWXpNGhg2JxhOfBNX0eAfJ6r3_Qa9MPzBdX3rvivF=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live
+
+Alhurra Iraq - الحرة عراق | Iraq | https://yt3.googleusercontent.com/ytc/APkrFKZnS3FoTTvhOwlJhcKWuhdUblw4sPmIYkGmgQCkfQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCTkMv4UVWC7bpnO1edsrB9A/live
+
+ANAADI TV 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKasotI-xGrpjpLmoL5Ui8h86S9MpfBpg6nsv_BKBw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCK1Sl8bNLay45FeL30BFdxQ/live
 
-BBC News Hindi | Hindi | |
+BBC News Hindi 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKbj7abS4m46w9ZumDM2CZCDleu1Fx3uNm1aofdYEvs=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCN7B-QD0Qgn2boVH5Q0pOWg/live
 
-DD BHARATI | Hindi | |
+DD BHARATI | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKZ01datQxUKf-mh95xeQWPBLzAN4yinTjmDgct_=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg/live
 
-DD JAMMU | Hindi | |
+DD JAMMU 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKZjEdDf0Kai_mT1s58YnYTZe3BXTQCd4PDmFH51=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC8e8pGUfxubzuZUvW43O3Gg/live
 
-DD KASHIR | Hindi | |
+DD KASHIR 4 | Hindi | https://yt3.googleusercontent.com/B1ku7xn_t0D1LqBkNPoOsPuubcUrlMb1VZuaquB6cWd4V0ys30Zc6vmfcSOVzrLfEEK1Akm6=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCOqU-HfQxoyImaCW2tCDxJA/live
 
-DD KISAN | Hindi | |
+DD KISAN 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKaMDpscFYAIeO5p3lYoNRZPlvg7tg7sKJV-sSXnXw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
 
-DD NATIONAL | Hindi | |
+DD NATIONAL 4 | Hindi | https://yt3.googleusercontent.com/CX3lyzNXEV-TzoGD84MvHPzpBsZ2RW5_WNZXqtk-oiczee78Kv2tZsnnMJDfICOJdqas5Pvuyw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCSjPe5kinQtwcyHcFJyyMfw/live
 
-DD NATIONAL | Hindi | |
+DD NATIONAL 4 | Hindi | https://yt3.googleusercontent.com/CX3lyzNXEV-TzoGD84MvHPzpBsZ2RW5_WNZXqtk-oiczee78Kv2tZsnnMJDfICOJdqas5Pvuyw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/DoordarshanNational/live
 
-DD UP | Hindi | |
+DD UP 4 | Hindi | https://yt3.googleusercontent.com/esSryuOR9Q5K8aIwrRrQAgm64wir6lCxI6HSvzEN-EOvMU-bG8uk33xEpRTsN8M1n6p1KB32=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCxtPipsf2nUZ9xM33TPe93Q/live
 
-Hare Krsna TV | Hindi | |
+Hare Krsna TV 4 | Hindi | https://yt3.googleusercontent.com/ntT17CkXKnQovhr3MA9IXG5KnU6_6DWT5ZUJb_PIDYUBizW88ckOwkOwQ1DRZr8coLUZ8RNuyQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCwu3_7WGUAcWhx79YsGMvBw/live
 
-Hare Krsna TV | Hindi | |
+Hare Krsna TV 4 | Hindi | https://yt3.googleusercontent.com/cmXR5OrJASDcNhBOWu3hwnetv8NqIalDOiIlpWdqKBfu1364rIr5fmfKI670vOmMDPYJ-qCUFw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/iskcondesiretree/live
 
-INDIA AHEAD | Hindi | |
+INDIA AHEAD 4 | Hindi | https://yt3.googleusercontent.com/RkTpr0du0c48OGjKxm4nUfBAbb3FB1uG2n7ljwRzERrSJ0y14AZGqzGWkTtns4nJBcsTbdXN=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCsEwpieG_XmBvPlfYrv9Afg/live
 
-INDIA NEWS | Hindi | |
+INDIA NEWS 4 | Hindi | https://yt3.googleusercontent.com/npgfyFFlpAb9fP1F3CZUwtklfg_lWPU1df3UCi6Lkzh095Heshx6Y3HM0Bq3IlWMJWpAH0bbk2c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCcH1_Lw_VbQoxGgDJ2OW0LQ/live
 
-INDIA NEWS HARYANA | Hindi | |
+INDIA NEWS HARYANA 4 | Hindi | https://yt3.googleusercontent.com/yMFPfoqy7V_IF-2xal17Ubfl1jWKdam5aJotS81VXZnzbdKVKQuxdPaBaZXwVA5ZWPDAzMnS=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCISKj2--Nxrs5s60T3wq5Pg/live
 
-INDIA NEWS PH | Hindi | |
+INDIA NEWS PH 4 | Hindi | https://yt3.googleusercontent.com/uivLcQTiHkX-Iz2FP4D9Hrz2lpWD3UxbUzSoUBb0O1RezKUsdceNdTZKy2VzZsENVyYbSFiLaA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCaFBF255LGHwqSB35kN7jsA/live
 
-KHABRAIN ABHITAK | Hindi | |
+KHABRAIN ABHITAK 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKa5Dvsu8Z6u89zfGZVD3Mt41wMFBpCpKTm4kAtt=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ/live
 
-Sansad TV Loksabha | Hindi | |
+Sansad TV Loksabha 4 | Hindi | https://yt3.googleusercontent.com/iG81vqD_X9_1YzA16TwcFSArgoFZvQhbUeduKUROUcOqtFHwfiJ3aqJX82Z8UfshvEyan7mc=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCrXvTLS-1ye7MmZhsi_cpOQ/live
 
-Ministry of I & B | Hindi | |
+Ministry of I & B 4 | Hindi | https://yt3.googleusercontent.com/1TMNs92PB5p_tIVMu2oc8mEgGCnREMCThfsSbH0avprHhrxIsyaPjy90M7QDU4dT6vlUk8MzYw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCvoGqD4Rrl0nsFxlsjRvx4w/live
 
-NAAPTOL | Hindi | |
+NAAPTOL 4 | Hindi | https://yt3.googleusercontent.com/UVHtppIhSZF1-yC8DJywq-nMpEi1oAyqSlovmXrv3OiD_3NbD6lOhRT_IgWHTuUMKDxDB39kzA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCVq31CbTy4zbpAqRS6lgnOg/live
 
-NARENDRA MODI | Hindi | |
+NARENDRA MODI 4 | Hindi | https://yt3.googleusercontent.com/iogG8RVPb49OyvLtnJJ61ltWouozunOuFN94GhByYUDZiMCNpjjDTVJtc8-hUAHk-uN8MrQyC1o=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC1NF71EwP41VdjAU1iXdLkw/live
 
-News Bharat | Hindi | |
-https://www.youtube.com/channel/UCgCli0lrWwZjkcDr44fmJDw/live
-
-News18 Jammu | Hindi | |
+News18 Jammu 4 | Hindi | https://yt3.googleusercontent.com/vHo_RpsQHqjmoni0_p0p0fJH95sdyDoowWOwkeoau7WmIwQU2XzJQ0Ms4qS1BE79r2HvIjPmFQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC6stTr8aMsvcFUA6G11hHIw/live
 
-News18 Ladakh | Hindi | |
+News18 Ladakh 4 | Hindi | https://yt3.googleusercontent.com/TZn0H1IYTbzFLBFmuy03ynfX6J0HwtV-NntiaVNFW9uLKVvVOkt8oxxsHIKAhlHXAWt5ypT_-Q=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCMIraIjM75VfrxBOvIA9OQQ/live
 
-News18 Kashmir | Hindi | |
+News18 Kashmir 4 | Hindi | https://yt3.googleusercontent.com/ZfIiaOoNSc-8KONhR9NuLWShOxy05SzPJbB0VeyPl6I4iNC2npIQGNrk1zVNSDUVURdDVyXx=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCRcye_z41WXpW5JalQm8wJw/live
 
-News18 Himachal | Hindi | |
+News18 Himachal 41 | Hindi | https://yt3.googleusercontent.com/LpzIl1Kyz2RFmkqEEjXx8RRWZGpi6RbghGZRQC4_IPG7BSehQClR6QQerInz6BMLsEvfL-EUc_8=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCL6yuVGsehBHfP-mrffkq5w/live
 
-News18 UP Uttarakhand | Hindi | |
+News18 UP Uttarakhand 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKaF7m5uPjK-2JzO76IyGGNXQHbECfO4i2DCqY6fuQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCafYgzpyw7aIUYOLjjADu7w/live
 
-News18 UP Uttarakhand | Hindi | |
+News18 UP Uttarakhand 4 | Hindi | https://yt3.googleusercontent.com/ytc/APkrFKaF7m5uPjK-2JzO76IyGGNXQHbECfO4i2DCqY6fuQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/News18UPUttarakhand/live
 
-News18 Bihar Jharkhand | Hindi | |
+News18 Bihar Jharkhand 4 | Hindi | https://yt3.googleusercontent.com/WB4qwH-CnhP9AiztkWLOf1rgdqRUQlGJdV70n8JEjJEH5IBMBJtOpx-XajGcD6UaEHoYVD4GoOM=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC531MlZA5LUbeGwEN_zcppw/live
 
-News18 Bihar Jharkhand | Hindi | |
+News18 Bihar Jharkhand 41 | Hindi | https://yt3.googleusercontent.com/WB4qwH-CnhP9AiztkWLOf1rgdqRUQlGJdV70n8JEjJEH5IBMBJtOpx-XajGcD6UaEHoYVD4GoOM=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/News18BiharJharkhand/live
 
-News18 MP Chhattisgarh | Hindi | |
+News18 MP Chhattisgarh 4 | Hindi | https://yt3.googleusercontent.com/_nPRYbak_EiuHDW42FckbmnS2LxCkzBthvRrcahzhnA99-0ogNVGonFt-ieqGZgAqGmd66ERDKA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ/live
 
-News18 MP Chhattisgarh | Hindi | |
+News18 MP Chhattisgarh 4 | Hindi | |
 https://www.youtube.com/c/News18MPChhattisgarh/live
 
-News18 Hindi | Hindi | |
+News18 Hindi 4 | Hindi | |
 https://www.youtube.com/channel/UCn1P85eKDEXS2iwbcasBm-g/live
 
-News18 India | Hindi | |
+News18 India 4 | Hindi | |
 https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
 
-News18 India | Hindi | |
+News18 India 4 | Hindi | |
 https://www.youtube.com/c/news18India/live
 
 News18 Punjab/Haryana/Himachal | Hindi | |
@@ -2227,124 +2275,118 @@ https://www.youtube.com/channel/UC6V4nVa0CQkoLZUlg9drmZA/live
 I & PR AP | Telugu | |
 https://www.youtube.com/channel/UC9Hl37t2Dke7ykUjPd0mejA/live
 
-IMPACT FOUNDATION | Telugu | |
+IMPACT FOUNDATION 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKbuYPJ3Gwy57zPaXBpHjZZfsXMiIv724-fhIcvwnQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCLF6ZhuAuhOA98UwZgDkQ2Q/live
 
-Kidsone Telugu | Telugu | |
+Kidsone Telugu 4 | Telugu | https://yt3.googleusercontent.com/VHXIsYuvLetY3Ah1sLTJHlybgEGIjLu7rcDxBFHCTMYhXFkAZrO-l3QCnjq2ginz4QU1N5e6OIc=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCjCHw0Np-xswtfxQac2yiYA/live
 
-MANA TV AP | Telugu | |
+MANA TV AP 4 | Telugu | https://yt3.googleusercontent.com/s2-Q62RWa8gnOTMDbTDnz8UOBpImLIKx19VPLDiUos9ZKsspBsO5HnwnOvzzZ8m6iJa5xzWuwwA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCpSzMrVC36NictxkhZR1Kpw/live
 
-MANGO MUSIC | Telugu | |
+MANGO MUSIC 4 | Telugu | https://yt3.googleusercontent.com/f8Lxivvwc6cOVozTDHaE6mpDXLx4D-8-YVfABmiOGqeL-OYPqq_heIDuWvvfgYVr1NJ2jaPG=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCWqyzn3cDkRDh3kRGWrIQwA/live
 
-Mango Music | Telugu | |
+Mango Music 4 | Telugu | https://yt3.googleusercontent.com/f8Lxivvwc6cOVozTDHaE6mpDXLx4D-8-YVfABmiOGqeL-OYPqq_heIDuWvvfgYVr1NJ2jaPG=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/mangomusic/live
 
-Mango Music | Telugu | |
+Mango Music 4 | Telugu | https://yt3.googleusercontent.com/f8Lxivvwc6cOVozTDHaE6mpDXLx4D-8-YVfABmiOGqeL-OYPqq_heIDuWvvfgYVr1NJ2jaPG=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/mangomusic/live
 
-Metro TV Telugu | Telugu | |
+Metro TV Telugu 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZ-mtdSR36zliz8RIKKbH8TibGbITC9NJc3ul6y=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCnsuUUZ_48m8RVHj_08CYdw/live
 
-Nationalist Hub | Telugu | |
+Nationalist Hub 4 | Telugu | https://yt3.googleusercontent.com/HbPGgWbP0ssvg5LEfti6Mz6ENEirZA_YPWWmT1pyGh85cc41kn5v4fQiwOET8iAoKi_IAK7d4Q=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC3tSxEsn4I2bOH0R7yqJspw/live
 
-Nationalist Hub | Telugu | |
+Nationalist Hub 4 | Telugu | https://yt3.googleusercontent.com/HbPGgWbP0ssvg5LEfti6Mz6ENEirZA_YPWWmT1pyGh85cc41kn5v4fQiwOET8iAoKi_IAK7d4Q=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@NationalistHub/live
 
-RTV | Telugu | |
+RTV | Telugu 4 | https://yt3.googleusercontent.com/xIOtgiGYmw-UXLAzZG3YHD-jr1p4cx7-dxEyyAoiL5l8hPfwRzGp9c_IgMMA4LQgzzuovzHXmw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@RTVNewsNetwork/live
 
-Suman TV News | Telugu | |
+Suman TV News 4 | Telugu | https://yt3.googleusercontent.com/bIcdMIx9yd1nthguUDw8OgvCWh1ANwZv_BJeA0nc5s8k0zqri3iSa8_FB62y3BcRBgfM7od_UQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCZ9NvA_Pr0OA2Qcp-QTtOkA/live
 
-News18 Telugu | Telugu | |
+News18 Telugu 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZsgNMMdgu9Z-JKCp8ukkmSDjE4beWSJbuXzTeUlw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC-PPlFHLfi4wcFOe6DrReCQ/live
 
-News Now | Telugu | |
+News Now 4 | Telugu | https://yt3.googleusercontent.com/BDiQIDZLbdNRHINlFzdGnZPvs-WwaT0n3yC38eWzqOmL345oafGVsa0-J8N0Ow3zVp0GLeM_Xcc=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCx8thMB9ByBPyhUbnpVixIA/live
 
-News Now Telugu Digital | Telugu | |
+News Now Telugu Digital 4 | Telugu | https://yt3.googleusercontent.com/di7rqcPh0x-ZB0bJkEe3074HDUW6lawoY_JnFVZFA51d9Zmg6ReWfofhD1PjGpMSfhnyJYbm5g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/NewsNowTeluguDigital/live
 
-News Now Telugu | Telugu | |
+News Now Telugu 4 | Telugu | https://yt3.googleusercontent.com/nhW_dvRcO7ybPFtWTuLQs9fOrqgXCpgNK8Mtn0fU-rc8RKma081AopViAkRej6IpJM5kd3uvuw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/NewsNowTeluguTV/live
 
-News Now Telugu | Telugu | |
+News Now Telugu 4 | Telugu | https://yt3.googleusercontent.com/BDiQIDZLbdNRHINlFzdGnZPvs-WwaT0n3yC38eWzqOmL345oafGVsa0-J8N0Ow3zVp0GLeM_Xcc=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@NNTelugu/live
 
-NTV GLOBAL | Telugu | |
+NTV GLOBAL 4 | Telugu | https://yt3.googleusercontent.com/qRuJ-VUuKV0XMblde213NAq4FxSmAq7XrV9oHmEAGHbBqaOogqepTwk281K-S1wjH8beOPQcag=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCtzYV2L-m8ew93mZb3qhf5w/live
 
-News1 Telugu | Telugu | |
+News1 Telugu 4 | Telugu | https://yt3.googleusercontent.com/AA57yH-uDD02Ol-rcIfpvvY5WFIyNCV-kpngV_rYyjG-e59PQXK6uAt4FIl5M8omQPeAhMOAOA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/News1TeluguTV/live
 
-SAILEELA TV | Telugu | |
-https://www.youtube.com/channel/UCdbkrxh5YoF3Crs3AGRgdPA/live
-
-Sneha TV | Telugu | |
-https://www.youtube.com/channel/UCX3s427Q3fgxCasbCwP07UQ/live
-
-TELUGU COMEDY CLUB | Telugu | |
+TELUGU COMEDY CLUB 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKbe6sljeI5suYKwzuYMqcE1G6uF71iRkPGcH6DU=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCasOSKWb0hUSdKlybiCMgkg/live
 
-Telugu One | Telugu | |
+Telugu One 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKYuV-y_G6vP7r4NZEPPPk3UTPZlfnyaA-yev5FKFA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCXjhJbviBl0M4JAC3cxDXqA/live
 
-YOYO TV | Telugu | |
+YOYO TV 4 | Telugu | https://yt3.googleusercontent.com/tpNv-pdaiCOHzyJIzGVVUP5SpiOt4rAV1b_FgyenUn6f3s36duElwduIu6_5Jg1GKNZ46Cso=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCJ97pLhPp-CU9Tj4-dp9B6g/live
 
-YOYO TV News | Telugu | |
+YOYO TV News 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZFreC4pyNz-eUVoZCVw6MJdzZrMe-jKia9sAO6IQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/YOYOTVNews/live
 
-ACE MEDIA | Telugu | |
+ACE MEDIA 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZag0TsBoOye2HkyG4IrjsRmF1ECK7jE9Pw1i1mJA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCSMzZUt-3jfSTPtCNRPT4jA/live
 
-Mango Telugu Cinema | Telugu | |
+Mango Telugu Cinema 4| Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZJKw2tIosZz-Zuyefcm1pBRtILYDOWWGtY9r-TJg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/telugucinema/live
 
-SumanTV News 24x7 LIVE | Telugu | |
+SumanTV News 24x7 LIVE 4 | Telugu | https://yt3.googleusercontent.com/r2-7H2lB6olhwIeHJSTTEdyA763fe4OPRgZ7MlUtEsVCUfaFmSooYGiwXoxb5_7pruY99xDF4w=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCjvlGpg8tXylzRqdFExxUZw/live
 
-SumanTV News 24x7 LIVE | Telugu | |
+SumanTV News 24x7 LIVE 4 | Telugu | https://yt3.googleusercontent.com/r2-7H2lB6olhwIeHJSTTEdyA763fe4OPRgZ7MlUtEsVCUfaFmSooYGiwXoxb5_7pruY99xDF4w=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/SumanTVChannel/live
 
-Volga Video | Telugu | |
+Volga Video 4 | Telugu | https://yt3.googleusercontent.com/3_butsQOkk3wsRkHEEq1RY5WyXPsuMqC4WDPtue86DWLVvf4_H1U2qQIKTQtjrzLV6tDqEDkHA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/VolgaVideo/live
 
-Volga Video | Telugu | |
+Volga Video 4 | Telugu | https://yt3.googleusercontent.com/3_butsQOkk3wsRkHEEq1RY5WyXPsuMqC4WDPtue86DWLVvf4_H1U2qQIKTQtjrzLV6tDqEDkHA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/newvolgavideo/live
 
-TSAT Network | Telugu | |
+TSAT Network 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKaQSl8p3_cwiW2OHhV0oEZFuqMEKLNf4PbHfunk7Q=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/TSATNetwork/live  
 
-1TV NEWS | Telugu | |
+1TV NEWS 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKYune0a4whxzGBN8GwKtA4jqR0mUeAD3zwOom8o=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCausY4La9nIg1WXIDkvx-YA/live
 
-Santosham Suresh | Telugu | |
+Santosham Suresh 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKZzCoiW_Cz8jdcTw2Ebm9fEIABsGSiSp6QEgatIJg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCAZLIGT34B3O-gDpIblZFjA/live
 
-Bhavani HD Movies | Telugu | |
+Bhavani HD Movies 4 | Telugu | https://yt3.googleusercontent.com/CIDOXzbO2BZ80ffejls0ZRCF9Puyyx5IUf3GAXbRZpgoEQhwQi0VGfa-U_5IzIX9nyG9P7Ae7A=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/BhavaniHDMovies/live
 
-Studio Yuva | Telugu | https://www.lyngsat-logo.com/logo/tv/ss/studio-yuva-in.png |
+Studio Yuva 4 | Telugu | https://www.lyngsat-logo.com/logo/tv/ss/studio-yuva-in.png |
 https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
-BBC News Telugu | Telugu | |
+BBC News Telugu 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKa5yZxjJ8qDpxbT5gDfLVt_ir4xePtKSAX1NUpniA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/BBCNewsTelugu/live
 
-Q News | Telugu | |
+Q News 4 | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKbgwD7g8g7YFukoZBBB1BbsdqfaRwuF-GsZ9gzOnQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/TeenmaarMallannaOfficial/live
 
-ARCHANA TV | Telugu | |
+ARCHANA TV 4 | Telugu | https://yt3.googleusercontent.com/v1Y1jG0yHOwSol8_oZxFwc6v_wkPRBeD58XaJPpz2UeNycPqqPdu8v-0ByXRO3r6s4ZpTpqljw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCztiSRVWvqkopmFmdvKV2Tg/live
 
-Master key TV | Telugu | |
+Master key TV 4 | Telugu | https://yt3.googleusercontent.com/8Z9tOPdKy5B6d7ThabEu9eX8SCUOUo8jdfSSPPDFhBvadACBgbo_QurupxRV-N7bXCu6h2axVeY=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCdMBr4exmaOKoyJV5NION0w/live
 
-Master key TV | Telugu | |
+Master key TV 4 | Telugu | https://yt3.googleusercontent.com/SKhc8XCr6ddof4dOKEO6O1xy0DRRQ0vnYrsQ8EXbsimLr4GOGxV2ir9-o_S9PS5dPQZ1N4nLzHs=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCB2ZT3sWOBECLI-eKci-vXA/live
 
 TV9 Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png |
@@ -2440,7 +2482,7 @@ https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live
 TV ASIA TELUGU | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKaBiEQfbUInAWUzwkYvclLTIcyWgMcXGf-QHANO-g=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/TVASIATELUGU/live
 
-TFN LIVE TV | Telugu | |
+TFN LIVE TV 4 | Telugu | https://yt3.googleusercontent.com/72_sSsLdBr5jZdISRixQg0oXr7bUXzdpTw0R7MfmCrW6YOLOpUvoZqSlil1GmnV8cA7ST3yBQSA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/telugufilmnagar/live
 
 Prime9 News | Telugu | https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png |
@@ -2488,7 +2530,7 @@ https://www.youtube.com/channel/UCwerRPpA8HKjhwEjkHcgQow/live
 N&T Party | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKaUtU65e_XlQOYdVJbozwEoKkg-JqQ0C9g3glcA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCC9rwt1T2i4klATksN6prdQ/live
 
-Euro News | Español | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
+EuroNews 3 | Español | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
 
 Omkaram | Telugu | https://yt3.googleusercontent.com/ytc/APkrFKYcNkK5lJswbcVQVysHobc2fVDLoMcXH0e8Lv2j=s176-c-k-c0x00ffffff-no-rj |
@@ -2515,7 +2557,7 @@ https://www.youtube.com/c/PowerRangersKidsOfficialChannel/live
 PBS KIDS | Kids | https://yt3.googleusercontent.com/zaMIMLXJM2PXvUAA-FZuCOIFxKpMU94L-QfqiCeoOnkM55TXd3fppYBaMYbCJ-x2HiFDBovIklk=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/PBSKIDS/live
 
-PAW Patrol Official & Friends | Kids | |
+PAW Patrol Official & Friends | Kids | https://yt3.googleusercontent.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/OfficialPawPatrol/live
 
 Oddbods & FRIENDS | Kids | https://yt3.googleusercontent.com/d83FgJTp4AB_v1KAuNC_WXIrS2lAYslBLRKQSRB3zFW3QSzd1Pn2NMMlKW0I-0f2qL1HNsk0=s176-c-k-c0x00ffffff-no-rj |
@@ -2714,7 +2756,7 @@ https://www.youtube.com/c/trtworld/live
 Al Jazeera English | English | https://i.imgur.com/sXq5pev.png |
 https://www.youtube.com/user/AlJazeeraEnglish/live
 
-CNA  | English | https://i.imgur.com/vMht7AD.png |
+CNA 5 | English | https://i.imgur.com/vMht7AD.png |
 https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
 
 WPLG Local 10 | English | https://i.imgur.com/tELaG63.png |
