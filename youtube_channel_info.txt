@@ -1,16 +1,28 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Mega | Noticias | https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj | 
-https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
+ANNnewsCH | Noticias | https://yt3.googleusercontent.com/ytc/AIf8zZRzZ1IHQux6DJqzf_CkVk9KiGUFWiBok4yAdl04Qw=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
 
-עכשיו 14 | Noticias | https://yt3.googleusercontent.com/_zuu3BebkXpOJWlNB2d2NRXlpQF1VgqDB3ocmn8dqbWKyOoPIHWyNpitbgu8Ra5ssQTw_FdMX_4=s176-c-k-c0x00ffffff-no-rj | 
+中視新聞 HD直播頻道 Taiwan CTV news HD Live | Noticias | https://yt3.googleusercontent.com/yibEHBX4Sfi2BPrad679w0sKiDCSQjx67PaGMU3AhPoZAMILyAVlxcHseLqvSP2hBlVxsYG-=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live
+
+新唐人亞太電視台NTDAPTV | Noticias | https://yt3.googleusercontent.com/ytc/AIf8zZS7fiIi3ba-I-oiTDMJaKWFtezMIeR2AciESTinnA=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCi4AGjvmSMB9Nn6oyFPYPeQ/live
+
+鳳凰衛視PhoenixTV | Noticias | https://yt3.googleusercontent.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCd9dPMYgV9-IQaZG491TaRw/live
+
+愛爾達影劇台  | Noticias | https://yt3.googleusercontent.com/ytc/AIf8zZSlaAcqpf5TpJWEtOKQwanvBFTymL_XV2I61cfO0A=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC42G_aqGPKozJq5clSG4vuA/live
+
+עכשיו 14 | Noticias | https://yt3.googleusercontent.com/_zuu3BebkXpOJWlNB2d2NRXlpQF1VgqDB3ocmn8dqbWKyOoPIHWyNpitbgu8Ra5ssQTw_FdMX_4=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCKEImtWikw9usC1pl_9m1nQ/live
 
-FRANCE 24 Español | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKbN7AVO1EPk7AdVHoh6mb9sF9QZwM5DmT7DKuh8=s176-c-k-c0x00ffffff-no-rj | 
+FRANCE 24 Español | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKbN7AVO1EPk7AdVHoh6mb9sF9QZwM5DmT7DKuh8=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/live/Y-IlMeCCtIg?si=2nv5HVVtkCvmVjc6
 
-三立LIVE新聞 | Noticias | https://yt3.googleusercontent.com/ytc/APkrFKbN7AVO1EPk7AdVHoh6mb9sF9QZwM5DmT7DKuh8=s176-c-k-c0x00ffffff-no-rj |
+三立LIVE新聞 | Noticias | https://yt3.googleusercontent.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
 
 Euronews Español | Noticias | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
@@ -131,6 +143,9 @@ VPItv Ve | Noticias | https://yt3.ggpht.com/ytc/AKedOLSxx6wPZDlXdXllLfgSMl0rcHse
 https://www.youtube.com/channel/UCVFiIRuxJ2GmJLUkHmlmj4w/live
 
 Meganoticias | Noticias | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1 |
+https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
+
+Mega | Noticias | https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
 
 NMás | Noticias | https://yt3.googleusercontent.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s176-c-k-c0x00ffffff-no-rj |
