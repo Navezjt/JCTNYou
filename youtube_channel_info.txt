@@ -1802,7 +1802,7 @@ ANN JapaNews24 | Japanese | https://static.wikia.nocookie.net/logopedia/images/3
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 ANN News | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
-https://www.youtube.com/watch?v=mB-prl5HTV8
+https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
 
 Raj News Malayalam | Malayalam | https://i.imgur.com/3UqAbx0.jpg |
 https://www.youtube.com/@RajNewsMalayalamOnline/live
@@ -3483,6 +3483,20 @@ https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
 Janam TV HongKong | NOTICIAS | https://yt3.googleusercontent.com/ytc/AIf8zZQsGpOHeClaHBUuZadj5UL2CRts-CFHvxeSYVFXZg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
 
+QSVS-Qui-Studio-a-Voi-Stadio TELELOMBARDIA1 | NOTICIAS | https://yt3.googleusercontent.com/hZmWKCTflx0jS-0PbViBr56HRI_EoRHP_1YpEjLCMSji0JnwawizOR_Er6sKJrfmwh1Je8_c=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC3yM6JHZSBlU8crXIDHK-kQ/live
+
+QSVS-Qui-Studio-a-Voi-Stadio TELELOMBARDIA2 | NOTICIAS | https://yt3.googleusercontent.com/hZmWKCTflx0jS-0PbViBr56HRI_EoRHP_1YpEjLCMSji0JnwawizOR_Er6sKJrfmwh1Je8_c=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=2gP6GTlOPe0
+
+QSVS-Qui-Studio-a-Voi-Stadio TELELOMBARDIA3 | NOTICIAS | https://yt3.googleusercontent.com/hZmWKCTflx0jS-0PbViBr56HRI_EoRHP_1YpEjLCMSji0JnwawizOR_Er6sKJrfmwh1Je8_c=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=V5JpPj68T4A
+
+ULTIM'ORA CALCIO News | NOTICIAS | https://yt3.googleusercontent.com/267ysL4RbtDOu3yBG7b8eV3naDYoYCmoJpahCN1l-pBttPBEMlTrY6fjbwKTTT21tFfUdbPnaD0=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC0vJwaC2XuADT3KRzNLzlhA/live
+
+Radio10 | NOTICIAS | https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCJozD5RVug7EZdTjqkGISYQ/live
 
 CNA新加坡 | NOTICIAS | https://yt3.googleusercontent.com/ytc/AIf8zZSyNIh7o1kQ_FK0aQPrmUujqAiB_H-XON220hpoqQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
